@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../File.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../LineShape.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../LShape.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../JShape.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../SShape.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../ZShape.swift">
+   </FileRef>
+   <FileRef
+      location = "self:Swiftris.xcodeproj">
+   </FileRef>
+</Workspace>
